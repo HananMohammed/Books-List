@@ -1,0 +1,24 @@
+.form1 , .form2,.hidden-li{
+    display: none;
+}
+
+element.style {
+}
+.ml-5{
+    margin-left: 12rem!important;
+}
+.search{
+    width:40%;
+    float: right;
+}
+li{
+    padding:0px!important;
+}
+.card.col-lg-8.justify-content-center{
+    width: 0px!important;
+    margin : 0px!important;
+    padding: 0px!important;
+}
+.hidden-li{
+    list-style-type: none;
+}
